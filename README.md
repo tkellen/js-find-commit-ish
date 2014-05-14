@@ -10,8 +10,8 @@ const findCommitIsh = require('find-commit-ish');
 findCommitIsh('git://github.com/tkellen/find-commmit-ish.git');
 findCommitIsh('git+ssh://git@github:find-commmit-ish.git#branch');
 findCommitIsh('git+ssh://git@github/find-commmit-ish.git#tag');
-findCommitIsh('git+http://git@github/tkellen/find-commit-ish.git#d96998c');
-findCommitIsh('git+https://git@github/tkellen/find-commit-ish.git#d96998c');
+findCommitIsh('git+http://git@github/tkellen/find-commit-ish.git#d716b2a');
+findCommitIsh('git+https://git@github/tkellen/find-commit-ish.git#d716b2a');
 
 ```
 
